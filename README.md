@@ -9,6 +9,7 @@ Although we are not from the same company or the same country, we usually love t
 We have always cherished the dream of using youth to turn into new technological hotspots, creating new technological things belonging to an era, and adding impetus to social civilization.
 
 2. What do we want to do?
+
 ATU main chain plans to develop a global, decentralized, new chat tool that no one can monitor content for chat communication innovation.
 After its content is encrypted, in addition to using point-to-point transmission as much as possible, for the content that needs to be stored temporarily or needs to be saved for a certain period of time,
 We will do our best to store based on the blocks of the blockchain and generate mining value, thereby generating an ecological closed loop.
