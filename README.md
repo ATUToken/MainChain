@@ -3,7 +3,7 @@
 Planning And Under construction！
 
 1. Who are we?
-2. 
+
 The initial team of ATU is a technology enthusiast who loves blockchain from various industrial positions in the communication sector. He has been engaged in design and development work such as radio frequency, modem, communication chip and so on.
 Although we are not from the same company or the same country, we usually love to get together to discuss the future of technology and current development hotspots and directions.
 We have always cherished the dream of using youth to turn into new technological hotspots, creating new technological things belonging to an era, and adding impetus to social civilization.
